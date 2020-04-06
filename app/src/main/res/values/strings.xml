@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherLogger</string>
+    <string name="app_id">9483b92df41d6a2dd1e9d8a8fd061f65</string>
+    <string name="load">Load</string>
+    <string name="saved">Saved</string>
+    <string name="metric">metric</string>
+    <string name="success_message">Weather successfully saved</string>
+    <string name="error_message">Error, try again later</string>
+    <string name="delete_success">Successfully deleted</string>
+    <string name="options">Options</string>
+</resources>
